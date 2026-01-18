@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Minhas desventuras pelas interwebs wowowowowowo</title>
-    <link>https://lrbs.github.io/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on Minhas desventuras pelas interwebs wowowowowowo</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 18 Jan 2026 19:15:41 -0300</lastBuildDate>
-    <atom:link href="https://lrbs.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Primeiro</title>
-      <link>https://lrbs.github.io/primeiro/</link>
+      <link>http://localhost:1313/primeiro/</link>
       <pubDate>Sun, 18 Jan 2026 19:15:41 -0300</pubDate>
-      <guid>https://lrbs.github.io/primeiro/</guid>
+      <guid>http://localhost:1313/primeiro/</guid>
       <description>&lt;h1 id=&#34;primeiro-post&#34;&gt;Primeiro post&lt;/h1&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;apenas um teste nada mais que um teste.&lt;/p&gt;</description>
     </item>
   </channel>
