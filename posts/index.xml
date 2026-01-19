@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Minhas desventuras pelas interwebs wowowowowowo</title>
-    <link>https://lrbs.github.io/</link>
-    <description>Recent content on Minhas desventuras pelas interwebs wowowowowowo</description>
+    <title>Posts on Minhas desventuras pelas interwebs wowowowowowo</title>
+    <link>https://lrbs.github.io/posts/</link>
+    <description>Recent content in Posts on Minhas desventuras pelas interwebs wowowowowowo</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 19 Jan 2026 02:42:13 -0300</lastBuildDate>
-    <atom:link href="https://lrbs.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://lrbs.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Por Que Um Blog?</title>
       <link>https://lrbs.github.io/por-que-um-blog/</link>
